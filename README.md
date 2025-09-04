@@ -5,3 +5,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sandhuhardeep67/Ethiopian-Insurance-Corporation/main/Images/EIC.png">
+</p>
